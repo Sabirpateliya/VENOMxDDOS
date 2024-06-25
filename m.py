@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#By @venomXCRAZY
+#By @Sabirpateliya
 
 import telebot
 import subprocess
