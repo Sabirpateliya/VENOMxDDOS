@@ -1,1 +1,1 @@
-# ddos by venom
+# ddos by Sabirpateliya
